@@ -3,7 +3,7 @@
 <h3 align="center">🧠 AI Researcher @ DGIST · Daegu, Korea</h3>
 
 <p align="center">
-  Interested in <strong>LLM</strong>,<strong>Multi agents</strong>
+  Interested in <strong>LLM </strong>,<strong>Multi agents</strong>
 </p>
 
 ---
