@@ -1,6 +1,6 @@
 <h1 align="center">YooSanghoon</h1>
 
-<h3 align="center">🧠 AI Researcher @ DGIST · Daegu, Korea</h3>
+<h3 align="center"> M.S Student @ DGIST · Daegu, Korea</h3>
 
 <p align="center">
   Interested in <strong>LLM </strong>,<strong>Multi agents</strong>
@@ -30,4 +30,4 @@
 
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoohoon1221@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyoo@dgist.ac.kr)
