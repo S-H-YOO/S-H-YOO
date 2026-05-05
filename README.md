@@ -1,8 +1,7 @@
 <h1 align="center">YooSanghoon</h1>
 
-<h3 align="center"> M.S Student DGIST · Daegu, Korea</h3>
+<h3 align="center"> M.S Student </h3>
 <p align="center">
-  M.S Student<br>
   Department of Electrical Engineering &amp; Computer Science<br>
   DGIST
 </p>
