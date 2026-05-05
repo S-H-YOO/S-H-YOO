@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12&height=200&section=header&text=YooSanghoon&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<h1 align="center">YooSanghoon</h1>
 
 <h3 align="center">🧠 AI Researcher @ DGIST · Daegu, Korea</h3>
 
@@ -39,5 +39,3 @@
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoohoon1221@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12&height=100&section=footer&reversal=true)
